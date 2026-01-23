@@ -1,1 +1,1 @@
-print("i love my mom")
+print("i love the world ")
