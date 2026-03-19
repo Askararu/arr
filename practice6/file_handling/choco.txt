@@ -1,0 +1,4 @@
+Hello, it is my file.
+This file is for testing purposes.
+This is new line.
+That is also new line.
