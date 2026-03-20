@@ -1,0 +1,3 @@
+Mouse,2
+Keyboard,8
+Webcam,1
