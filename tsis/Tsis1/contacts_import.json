@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Aska Arr",
+        "email": "arr@example.com",
+        "birthday": "1999-01-01",
+        "group": "Friend",
+        "phones": ["87001112233:mobile", "87273334455:home"]
+    }
+]

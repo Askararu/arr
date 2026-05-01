@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Sooyoung Han",
+        "email": "soo.han@kbtu.kz",
+        "birthday": "2001-10-12",
+        "group": "work",
+        "phones": [
+            "87019876543:work"
+        ]
+    },
+    {
+        "name": "Dokja Kim",
+        "email": "dokja@mail.ru",
+        "birthday": "2002-05-20",
+        "group": "friend",
+        "phones": [
+            "87771234567:mobile"
+        ]
+    },
+    {
+        "name": "Dokja Kim",
+        "email": "dokja@mail.ru",
+        "birthday": "2002-05-20",
+        "group": "friend",
+        "phones": [
+            "87771234567:mobile"
+        ]
+    },
+    {
+        "name": "Sooyoung Han",
+        "email": "soo.han@kbtu.kz",
+        "birthday": "2001-10-12",
+        "group": "work",
+        "phones": [
+            "87019876543:work"
+        ]
+    },
+    {
+        "name": "Dokja Kim",
+        "email": "dokja@mail.ru",
+        "birthday": "2002-05-20",
+        "group": "friend",
+        "phones": [
+            "87771234567:mobile"
+        ]
+    },
+    {
+        "name": "Sooyoung Han",
+        "email": "soo.han@kbtu.kz",
+        "birthday": "2001-10-12",
+        "group": "work",
+        "phones": [
+            "87019876543:work"
+        ]
+    },
+    {
+        "name": "Joonghyuk Yoo",
+        "email": "yoo@gmail.com",
+        "birthday": "1995-02-14",
+        "group": "family",
+        "phones": [
+            "87272223344:home"
+        ]
+    },
+    {
+        "name": "Joonghyuk Yoo",
+        "email": "yoo@gmail.com",
+        "birthday": "1995-02-14",
+        "group": "family",
+        "phones": [
+            "87272223344:home"
+        ]
+    },
+    {
+        "name": "Dokja Kim",
+        "email": "dokja@mail.ru",
+        "birthday": "2002-05-20",
+        "group": "friend",
+        "phones": [
+            "87771234567:mobile"
+        ]
+    },
+    {
+        "name": "Sooyoung Han",
+        "email": "soo.han@kbtu.kz",
+        "birthday": "2001-10-12",
+        "group": "work",
+        "phones": [
+            "87019876543:work"
+        ]
+    },
+    {
+        "name": "Joonghyuk Yoo",
+        "email": "yoo@gmail.com",
+        "birthday": "1995-02-14",
+        "group": "family",
+        "phones": [
+            "87272223344:home"
+        ]
+    },
+    {
+        "name": "Joonghyuk Yoo",
+        "email": "yoo@gmail.com",
+        "birthday": "1995-02-14",
+        "group": "family",
+        "phones": [
+            "87272223344:home"
+        ]
+    }
+]
